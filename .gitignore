@@ -15,3 +15,6 @@
 
 # go debug file
 debug
+
+# air temp folder
+tmp/
